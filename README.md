@@ -63,7 +63,7 @@
 
 #### 5. Top 10 Total Vehicles by Model:
 
-1.**Visualization**: Tree map
+1. **Visualization**: Tree map
 
 2. **Description**: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
